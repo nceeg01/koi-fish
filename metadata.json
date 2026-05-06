@@ -1,0 +1,6 @@
+{
+  "name": "Koi-Zen: Browser Edition",
+  "description": "A zen companion that swims across your browser, offering mindful quotes and market updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
